@@ -27,3 +27,4 @@
 - Numpy - version 1.25.2
 - Pandas - version 1.5.3
 - Matplotlib - version 3.7.1
+- Augmentor - version 0.2.12
