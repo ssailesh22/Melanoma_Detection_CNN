@@ -8,6 +8,7 @@
 
 
 ## Dataset Information
+- Dowload the dataset from [**here**](https://drive.google.com/file/d/1xLfSQUGDl8ezNNbUkpuHOYvSpTyxVhCs/view)
 - The dataset used for the model building consists of 2357 images of malignant and benign oncological diseases, which were formed by the International Skin Imaging Collaboration (ISIC).
 - The dataset contains 9 types of skin cancer images that include:
 	['actinic keratosis', 'basal cell carcinoma', 'dermatofibroma', 'melanoma', 'nevus', 'pigmented benign keratosis', 'seborrheic keratosis', 'squamous cell carcinoma', 'vascular lesion']
