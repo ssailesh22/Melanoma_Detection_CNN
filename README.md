@@ -2,7 +2,7 @@
 > Building a Convolutional Neural Network for the detection of skin cancer.
 
 ## Table of Contents
-* [General Info](#general-information)
+* [Dataset Info](#dataset-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
